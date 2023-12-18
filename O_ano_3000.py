@@ -1,0 +1,6 @@
+print("Em que ano você nasceu?:")
+idade = int(input())
+print("para qual ano você quer saber sua idade?")
+print("Ex: 2050 ou 3000")
+ano = int(input())
+print("no ano", ano, "você terá:", ano-idade)
