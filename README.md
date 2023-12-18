@@ -1,2 +1,2 @@
-# Programa-o_Estruturada_de_Computadores
+# Programacao_Estruturada_de_Computadores
 Atividade_IFPI_Ritomar
